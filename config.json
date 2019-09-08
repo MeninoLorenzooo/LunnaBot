@@ -1,0 +1,9 @@
+{
+    "prefix": "l!",
+    "token": "NTI0OTQ5NzYzNjc0NzM0NjAy.DxPNXw.zo3pWEEhuxwbvHmxXG98kbH4tXY",
+    "localDB": "mongodb://localhost:27017/full",
+    "testDB": "mongodb://lunna:historia1997@ds127704.mlab.com:27704/full",
+    "owners": [
+        "469458019655352320"
+    ]
+}

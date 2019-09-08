@@ -1,0 +1,28 @@
+{
+  "name": "lunna",
+  "version": "1.0.0",
+  "description": "None",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "node . test"
+  },
+  "author": "Jean Reno",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^4.0.0",
+    "cpu-stat": "^2.0.1",
+    "database.js": "0.0.1",
+    "gif-search": "^2.0.1",
+    "jimp": "^0.6.0",
+    "mal-scraper": "^2.4.5",
+    "moment": "^2.22.2",
+    "moment-duration-format": "^2.2.2",
+    "mongoose": "^5.3.15",
+    "ms": "^2.1.1",
+    "random-puppy": "^1.1.0",
+    "superagent": "^4.0.0",
+    "uws": "^99.0.0",
+    "weather-js": "^2.0.0"
+  }
+}
